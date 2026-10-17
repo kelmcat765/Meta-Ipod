@@ -212,4 +212,4 @@ meta-iPod is available as a complete free version with all features and updates 
 Start organizing your iTunes library today with meta-iPod! Download now for a free and complete experience.
 
 ---
-**Last updated:** 2026-10-17 19:08:52 UTC
+**Last updated:** 2026-10-17 22:05:37 UTC
